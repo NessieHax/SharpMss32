@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpMss32Example", "SharpMss32Example\SharpMss32Example.csproj", "{DCFBF8CE-02D6-4FC1-8296-B773D9C908CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpMss32", "SharpMss32\SharpMss32.csproj", "{E8D0B671-3AB1-48B6-A767-58DF67BD5D11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCFBF8CE-02D6-4FC1-8296-B773D9C908CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFBF8CE-02D6-4FC1-8296-B773D9C908CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFBF8CE-02D6-4FC1-8296-B773D9C908CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFBF8CE-02D6-4FC1-8296-B773D9C908CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8D0B671-3AB1-48B6-A767-58DF67BD5D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8D0B671-3AB1-48B6-A767-58DF67BD5D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8D0B671-3AB1-48B6-A767-58DF67BD5D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8D0B671-3AB1-48B6-A767-58DF67BD5D11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D79FC141-F4FE-4D0B-98F4-7EF62B946CA4}
+	EndGlobalSection
+EndGlobal
